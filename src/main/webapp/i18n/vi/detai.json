@@ -1,0 +1,42 @@
+{
+  "doAnApp": {
+    "detai": {
+      "home": {
+        "title": "Detais",
+        "createLabel": "Thêm mới một Detai",
+        "createOrEditLabel": "Thêm mới hoặc cập nhật Detai",
+        "notFound": "No Detais found"
+      },
+      "created": "Một Detai mới được tạo với định danh {{ param }}",
+      "updated": "Một Detai cập nhật với định danh {{ param }}",
+      "deleted": "Một Detai đã xóa với định danh {{ param }}",
+      "delete": {
+        "question": "Bạn có chắc là muốn xóa Detai {{ id }}?"
+      },
+      "detail": {
+        "title": "Detai"
+      },
+      "ma": "Ma",
+      "ten": "Ten",
+      "thoigiantao": "Thoigiantao",
+      "thoigianbatdau": "Thoigianbatdau",
+      "thoigianketthuc": "Thoigianketthuc",
+      "muctieu": "Muctieu",
+      "noidung": "Noidung",
+      "tinhcapthiet": "Tinhcapthiet",
+      "ketqua": "Ketqua",
+      "xeploai": "Xeploai",
+      "trangthai": "Trangthai",
+      "sudung": "Sudung",
+      "dutoanKP": "Dutoan KP",
+      "tiendo": "Tiendo",
+      "danhgia": "Danhgia",
+      "linhvuc": "Linhvuc",
+      "capdetai": "Capdetai",
+      "hoidongdanhgia": "Hoidongdanhgia",
+      "coquanphoihop": "Coquanphoihop",
+      "nguonkinhphi": "Nguonkinhphi",
+      "nhansu": "Nhansu"
+    }
+  }
+}
